@@ -1,0 +1,124 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GamzeArici
+build_property.RootNamespace = GamzeArici
+build_property.ProjectDir = D:\AspNet\GamzeArici\GamzeArici\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\AspNet\GamzeArici\GamzeArici
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Islemler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1sZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Islemler/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1sZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Islemler/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1sZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Islemler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1sZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Islemler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZW1sZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Kitaplar/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBsYXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Kitaplar/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBsYXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Kitaplar/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBsYXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Kitaplar/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBsYXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Kitaplar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2l0YXBsYXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Okuyucular/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2t1eXVjdWxhclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Okuyucular/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2t1eXVjdWxhclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Okuyucular/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2t1eXVjdWxhclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Okuyucular/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2t1eXVjdWxhclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Okuyucular/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2t1eXVjdWxhclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Raflar/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFmbGFyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Raflar/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFmbGFyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Raflar/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFmbGFyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Raflar/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFmbGFyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Raflar/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFmbGFyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/AspNet/GamzeArici/GamzeArici/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-11fwto7r53
