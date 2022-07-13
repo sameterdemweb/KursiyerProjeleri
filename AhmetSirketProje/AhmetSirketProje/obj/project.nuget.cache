@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MbzCZz9P4H0d+V8yZYhUB3bCe4wKuaCRjASVCeOliKGu/iPwiiK8M+BtsIZDTe00JTWmozVjsBPsQ73T8dnWaw==",
+  "dgSpecHash": "ITvEa0fMZHly5TfFe9JaDYPwKPb/nlGwIZkDqRNmxV2/IW2+vfOrBOJOvkieTLJ1IsddzR+rr8PXnwxT3z+1sQ==",
   "success": true,
-  "projectFilePath": "D:\\AspNet\\AhmetSirketProje\\AhmetSirketProje\\AhmetSirketProje.csproj",
+  "projectFilePath": "D:\\AspNet\\EgitimOrnekleri\\KursiyerProjeleri\\KursiyerProjeleri\\AhmetSirketProje\\AhmetSirketProje\\AhmetSirketProje.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Notebook\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Notebook\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

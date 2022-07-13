@@ -8,121 +8,121 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AhmetSirketProje
 build_property.RootNamespace = AhmetSirketProje
-build_property.ProjectDir = D:\AspNet\AhmetSirketProje\AhmetSirketProje\
+build_property.ProjectDir = D:\AspNet\EgitimOrnekleri\KursiyerProjeleri\KursiyerProjeleri\AhmetSirketProje\AhmetSirketProje\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\AspNet\AhmetSirketProje\AhmetSirketProje
+build_property.MSBuildProjectDirectory = D:\AspNet\EgitimOrnekleri\KursiyerProjeleri\KursiyerProjeleri\AhmetSirketProje\AhmetSirketProje
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Calisanlar/Create.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Calisanlar/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNhbmxhclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Calisanlar/Delete.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Calisanlar/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNhbmxhclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Calisanlar/Details.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Calisanlar/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNhbmxhclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Calisanlar/Edit.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Calisanlar/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNhbmxhclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Calisanlar/Index.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Calisanlar/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsaXNhbmxhclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Home/Index.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Home/Privacy.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Isler/Create.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Isler/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Isler/Delete.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Isler/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Isler/Details.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Isler/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Isler/Edit.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Isler/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Isler/Index.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Isler/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXNsZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Kategoriler/Create.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Kategoriler/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlsZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Kategoriler/Delete.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Kategoriler/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlsZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Kategoriler/Details.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Kategoriler/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlsZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Kategoriler/Edit.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Kategoriler/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlsZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Kategoriler/Index.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Kategoriler/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlsZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Manuelsler/Index.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Manuelsler/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFudWVsc2xlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Shared/Error.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Sirketler/Create.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Sirketler/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lya2V0bGVyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Sirketler/Delete.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Sirketler/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lya2V0bGVyXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Sirketler/Details.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Sirketler/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lya2V0bGVyXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Sirketler/Edit.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Sirketler/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lya2V0bGVyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Sirketler/Index.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Sirketler/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lya2V0bGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/_ViewImports.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/_ViewStart.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/AspNet/AhmetSirketProje/AhmetSirketProje/Views/Shared/_Layout.cshtml]
+[D:/AspNet/EgitimOrnekleri/KursiyerProjeleri/KursiyerProjeleri/AhmetSirketProje/AhmetSirketProje/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hu50xk92sx

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AspNet\\AhmetSirketProje\\AhmetSirketProje\\AhmetSirketProje.csproj": {}
+    "D:\\AspNet\\EgitimOrnekleri\\KursiyerProjeleri\\KursiyerProjeleri\\AhmetSirketProje\\AhmetSirketProje\\AhmetSirketProje.csproj": {}
   },
   "projects": {
-    "D:\\AspNet\\AhmetSirketProje\\AhmetSirketProje\\AhmetSirketProje.csproj": {
+    "D:\\AspNet\\EgitimOrnekleri\\KursiyerProjeleri\\KursiyerProjeleri\\AhmetSirketProje\\AhmetSirketProje\\AhmetSirketProje.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspNet\\AhmetSirketProje\\AhmetSirketProje\\AhmetSirketProje.csproj",
+        "projectUniqueName": "D:\\AspNet\\EgitimOrnekleri\\KursiyerProjeleri\\KursiyerProjeleri\\AhmetSirketProje\\AhmetSirketProje\\AhmetSirketProje.csproj",
         "projectName": "AhmetSirketProje",
-        "projectPath": "D:\\AspNet\\AhmetSirketProje\\AhmetSirketProje\\AhmetSirketProje.csproj",
+        "projectPath": "D:\\AspNet\\EgitimOrnekleri\\KursiyerProjeleri\\KursiyerProjeleri\\AhmetSirketProje\\AhmetSirketProje\\AhmetSirketProje.csproj",
         "packagesPath": "C:\\Users\\Notebook\\.nuget\\packages\\",
-        "outputPath": "D:\\AspNet\\AhmetSirketProje\\AhmetSirketProje\\obj\\",
+        "outputPath": "D:\\AspNet\\EgitimOrnekleri\\KursiyerProjeleri\\KursiyerProjeleri\\AhmetSirketProje\\AhmetSirketProje\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
